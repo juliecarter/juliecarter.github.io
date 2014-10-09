@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://juliecarter.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: julieblog
+subtitle: <_>
+author: Julie Carter
 simple_search: https://www.google.com/search
-description:
+description: Flatiron School Ruby-006 Blog
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
